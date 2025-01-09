@@ -103,6 +103,7 @@ plaintext
 │   └── 📄 App.js     # 메인 애플리케이션
 ├── 📄 package.json   # 프로젝트 메타데이터
 └── 📄 README.md      # 프로젝트 문서
+
 📸 스크린샷
 홈 화면
 
